@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "githubactionpractice-d78b6",
-    "staging": "githubactiondemo-9b69e"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "githubactionpractice-d78b6"
+  }
 }
